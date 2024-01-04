@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "pratik-2001",
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
